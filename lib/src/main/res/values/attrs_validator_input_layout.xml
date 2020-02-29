@@ -1,0 +1,6 @@
+<resources>
+    <declare-styleable name="ValidatorInputLayout">
+        <attr name="isRequired" format="boolean" />
+        <attr name="requiredErrorMessage" format="string" />
+    </declare-styleable>
+</resources>

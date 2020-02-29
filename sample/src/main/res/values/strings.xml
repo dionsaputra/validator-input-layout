@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ValidatorInputLayout</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="name_should_be_filled">Name should be filled</string>
+    <string name="email">Email</string>
+    <string name="email_should_be_filled">Email should be filled</string>
+    <string name="password">Password</string>
+    <string name="password_should_be_filled">Password should be filled</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="confirm_password_should_be_filled">Confirm password should be filled</string>
+    <string name="confirm_password_not_match">Password not match</string>
+</resources>
