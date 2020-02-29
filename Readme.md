@@ -25,7 +25,6 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
 <p align="center">
   <h3 align="center">ValidationInputLayout</h3>
   <p align="center">
