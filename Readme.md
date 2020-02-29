@@ -10,9 +10,7 @@
 *** github_username, repo, twitter_handle, email
 -->
 
-
-
-
+[![JitPack](https://jitpack.io/v/dionsaputra/validator-input-layout.svg)](https://jitpack.io/#dionsaputra/validator-input-layout/0.0.1)
 
 <!-- PROJECT SHIELDS -->
 <!--
